@@ -40,9 +40,9 @@ Hướng dẫn cài đặt:
 
 1. Clone repository:
    
-   git clone https://github.com/anlv6000/Club-Management-JAVA-Web-.git
+   git clone https://github.com/HuynhTuanDuc/ClubManager.git
    
-   cd Club-Management-JAVA-Web-
+   cd ClubManager
    
 3. Cấu hình cơ sở dữ liệu:
    
